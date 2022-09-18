@@ -38,7 +38,6 @@
   font-weight: 600;
   z-index: 4;
   margin: 0;
-  position: relative;
   padding-left: 64px;
 }
 
@@ -143,6 +142,8 @@
 }
 
 .table {
+  margin-block: 0;
+  padding-inline-start: 0;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
@@ -158,12 +159,14 @@
 }
 
 .table__heading {
+  margin-block: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
 }
 
 .table__text {
+  margin-block: 0;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
@@ -262,6 +265,7 @@
   right: -210px;
   top: 0;
   z-index: -1;
+  background-size: contain;
 }
 
 .footer {
@@ -297,6 +301,7 @@
 }
 
 .footer__author {
+  margin-block: 0;
   line-height: 25px;
   font-size: 18px;
   font-style: normal;
