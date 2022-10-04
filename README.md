@@ -1,2 +1,2 @@
-# how-to-learn
+# Научиться учиться
 How to learn
