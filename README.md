@@ -21,4 +21,4 @@
 - :black_square_button: проверить код на кроссбраузерность и дописать все вендорные префиксы
 - :black_square_button: задизайнить форму, через которую пользователи смогут отправить вам комментарий
 ## Ссылка на проект
-https://garchenok.github.io/how-to-learn/index.html
+https://garchenok.github.io/how-to-learn/
